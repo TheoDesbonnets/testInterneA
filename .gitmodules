@@ -1,0 +1,3 @@
+[submodule "testInterneB"]
+	path = testInterneB
+	url = https://github.com/TheoDesbonnets/testInterneB.git
